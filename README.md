@@ -21,7 +21,8 @@
 
 Ниже описана логика преобразования исходной строки (уже разбитой на массив слов) согласно условию задачи
 
-![ConvertArrayForTask1](/ConvertArrayForTask.jpg)
+![image](https://github.com/SashaSmirnova55/ControlWorkSashaSmirnova/assets/135433922/e9d85831-3d96-4743-baf6-562bea8759d3)
+
 
 
 Код задачи находится тут controlWork/exercise/Program.cs
